@@ -1,6 +1,8 @@
 **SPLASH**
 Smart Page Loading Asynchronous System for HTML
 
+<hr>
+
 **PORTUGUÊS/BRASIL**
 
 O *SPLASH* irá tornar seu projeto mais organizado e dinâmico. Para cada página, três simples arquivos: 
