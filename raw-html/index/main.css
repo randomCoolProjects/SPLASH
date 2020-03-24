@@ -1,0 +1,7 @@
+.small-block
+{
+    padding-top: 20px;
+    display: inline-block;
+    max-width: 500px;
+    text-align: left;
+}

@@ -1,0 +1,24 @@
+{
+    "pagePath": "./raw-html/",
+    "global":
+    {
+        "script":
+        {
+            "path": "./global/src/",
+            "files": ["jquery.js", "popper.js", "swal.js"]
+        },
+        "style":
+        {
+            "path": "./global/css/",
+            "files": ["bootstrap.css", "main.css"]
+        }
+    },
+    "pages":
+    {
+        "index.html":
+        {
+            "title": "SPLASH - Smart Page Loading Asynchronous System for HTML"
+        }
+    },
+    "elementsPath": "./elements/"
+}
